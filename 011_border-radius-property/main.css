@@ -1,0 +1,33 @@
+div {
+  height: 200px;
+  width: 200px;
+  border: 1px solid brown;
+  border-radius: 80px;
+  margin: auto;
+  background-image: url(puppy.jpg);
+
+}
+
+img {
+border: 3px groove gray;
+border-radius: 100%;
+display: block;
+margin-left: auto;
+margin-left: auto;
+}
+
+.first {
+border: 5px dotted blue;
+border-radius: 200px;
+}
+
+.second {
+border: 1px dashed orangered;
+border-radius: 100%;
+}
+
+.third {
+border: 4px double orangered;
+border-radius: 200%;
+/* any percentage higher than 100% or absolute value bigger than half of the photo size will have no impact*/
+}
