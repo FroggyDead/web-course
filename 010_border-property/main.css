@@ -1,0 +1,23 @@
+div {
+  margin: auto;
+  height: 100px;
+  width: 100px;
+  /* width: 100px; if to take it our div will just take length of the window */
+  border: 1px solid red;
+}
+
+img {
+border: 10px groove orangered;
+}
+
+.first {
+border: 20px dotted orangered;
+}
+
+.second {
+border: 30px dashed orangered;
+}
+
+.third {
+border: 40px double orangered;
+}
