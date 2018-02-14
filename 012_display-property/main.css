@@ -3,6 +3,8 @@ div {
   width: 300px;
   border: 1px solid brown;
   border-radius: 100px;
+  /* display: inline-block;  changes property to inline level*/
+  display: inline-block;
   margin: auto;
   /*  center alignment of div*/
   background-image: url(puppy.jpg);
