@@ -1,0 +1,28 @@
+
+
+img {
+  height: 300px;
+  width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px groove lightgrey;
+  border-radius: 150px;
+}
+
+/* selector */
+p {
+  color: black;
+}
+
+/* class */
+.emphasize {
+  color: red;
+}
+
+/* id */
+#doggo {
+  color: darkgray;
+}
+
+/* Final-row element is defining choice of the formatting */
