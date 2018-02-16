@@ -1,0 +1,32 @@
+
+
+img {
+  height: 300px;
+  width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px groove lightgray;
+  border-radius: 150px;
+}
+
+
+/* Attribute selectors, standard ones */
+[src] {
+  border: 4px groove darkgray;
+}
+
+[contenteditable] {
+  border: 2px dotted brown;
+  text-align: center;
+}
+
+[href] {
+  border: 2px dotted lightgray;
+}
+
+/* as well we could take description to define formatting */
+[target=_blank] {
+  font-size: 22px;
+  color: brown;
+}
