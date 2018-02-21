@@ -1,0 +1,19 @@
+body {
+  font: 42px;
+}
+
+/* will affect only the first child of a parent tag */
+li:first-child {
+  color: red;
+}
+
+/* will affect only the last child of a parent tag */
+li:last-child {
+  color: green;
+}
+
+/* will affect every even child tag*/
+/* to affect odd use nth-child(odd) */
+li:nth-child(even) {
+  color: blue;
+}

@@ -1,0 +1,26 @@
+body {
+  font-size: 36px;
+  text-align: center;
+  border: 10px solid green;
+}
+
+/* Standard link colour */
+a:link {
+  color:green;
+}
+
+/* after you used the link */
+a:visited {
+  color:blue;
+}
+
+/* mouseover colour */
+
+a:hover {
+  color:red;
+}
+
+/* when clicked, moment of click */
+a:active {
+  color:yellow;
+}

@@ -1,0 +1,24 @@
+div{
+  height: 80px;
+  width: 80px;
+  background-color: blue;
+  display: inline-block;
+  margin:auto;
+}
+
+div:hover{
+  background-color:green;
+  cursor:pointer;
+}
+
+/* In case you need to use class */
+div.second:hover{
+  background-color:yellow;
+  cursor:pointer;
+}
+
+/* In case you need to use id */
+div#test:hover{
+  background-color:red;
+  cursor:pointer;
+}
