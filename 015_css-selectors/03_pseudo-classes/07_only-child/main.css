@@ -1,0 +1,4 @@
+/* affecting only tags with only one child */
+article:only-child {
+  color:red;
+}

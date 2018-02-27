@@ -1,0 +1,8 @@
+body{
+  font-size: 18px;
+}
+
+
+li:nth-child(9n+3) {
+  color:red;
+}

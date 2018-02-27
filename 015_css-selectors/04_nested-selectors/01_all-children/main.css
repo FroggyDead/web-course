@@ -1,0 +1,13 @@
+body{
+  font-size: 36px;
+  text-align: center;
+  padding-top: 36px;
+}
+
+/* "div p" would affect all <p> tags in <div>  */
+/* "div > p" would affect all immediate <p> tags in <div>  */
+/* "div ~ p" would affect all <p> tags which are siblings to a <div> and following him  */
+/* "div + p"  would affect <div> and one following <p> sibling */
+div p{
+  color: red;
+}

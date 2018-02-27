@@ -1,0 +1,13 @@
+body{
+  font-size: 18px;
+}
+
+/* Will choose second child from the start */
+li:nth-child(2) {
+  color:red;
+}
+
+/* Will choose second child from the end */
+li:nth-last-child(2) {
+  color: blue;
+}
