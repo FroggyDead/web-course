@@ -1,0 +1,21 @@
+/* Create an html page with 1 anchor tag. Provide styling for this anchor tag including different colors for these css pseudo-class properties: link, visited, hover, active.  */
+a {
+  font-size: 36px;
+  font-style: italic;
+}
+
+a:link {
+  color: green;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: blue;
+}

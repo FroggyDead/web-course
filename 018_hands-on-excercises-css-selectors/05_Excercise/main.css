@@ -1,0 +1,15 @@
+/* Create a paragraph of text. Style the first letter of that paragraph and the first line to be different from the rest of the paragraph. */
+* {
+  font-style: italic;
+}
+
+p::first-letter {
+font-size: 32px;
+
+}
+p::first-line {
+font-size:  16px;
+font-weight: bold;
+font-style: normal;
+color: red;
+}

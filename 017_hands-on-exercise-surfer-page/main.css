@@ -1,0 +1,31 @@
+html {
+  background-color: dodgerblue;
+}
+body {
+  margin: 0 auto;
+  width: 60%;
+  background-color: lawngreen;
+  border: 5px solid black;
+}
+
+img {
+  height: 200px;
+  width: 340px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 50%;
+  border: 10px groove gold;
+
+}
+
+p, h1 {
+  margin: 10px;
+}
+
+#header1 {
+  color:darkblue;
+}
+
+#header2 {
+  color: red;
+}

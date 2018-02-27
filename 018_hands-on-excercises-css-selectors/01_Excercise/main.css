@@ -1,0 +1,6 @@
+
+/* Create an html page with an ordered list of 20 list items. Use an ID to select the third list item. Style the third list item red. */
+
+#third {
+  color: red
+}

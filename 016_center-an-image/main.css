@@ -1,0 +1,9 @@
+* {
+  border: 2px dashed hotpink;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 10px groove pink;
+}

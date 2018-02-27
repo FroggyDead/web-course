@@ -1,0 +1,5 @@
+/* Use this emmet to create this html within an html page’s body tag ...    p{$}+div>p{$$}*3+article>p>lorem^^^p{$$$}*3    … and then, once the html is created, do the following: select all p tags that are children of a div and make them red. */
+
+div p {
+  color: red;
+}
